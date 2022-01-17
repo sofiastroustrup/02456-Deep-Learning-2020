@@ -1,4 +1,4 @@
-# 02456-protein-embedding-2020
+# Obtaining protein embeddings from recurrent neural networks
 
 
 Project title: Constructing an embedding of beta-lactamase and cytochrome C protein sequences using Recurrent Neural Networks
